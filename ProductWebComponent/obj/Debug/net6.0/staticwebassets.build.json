@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "QUdV9JUkHMdF4/fJ/ODiiiZ/YCD+lq3gURea4n+EHQk=",
+  "Source": "ProductWebComponent",
+  "BasePath": "_content/ProductWebComponent",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductWebComponent/wwwroot",
+      "Source": "ProductWebComponent",
+      "ContentRoot": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/wwwroot/",
+      "BasePath": "_content/ProductWebComponent",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/wwwroot/html/product-listing.html",
+      "SourceId": "ProductWebComponent",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/wwwroot/",
+      "BasePath": "_content/ProductWebComponent",
+      "RelativePath": "html/product-listing.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/html/product-listing.html"
+    },
+    {
+      "Identity": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/wwwroot/js/product-listing.js",
+      "SourceId": "ProductWebComponent",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/wwwroot/",
+      "BasePath": "_content/ProductWebComponent",
+      "RelativePath": "js/product-listing.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/product-listing.js"
+    }
+  ]
+}

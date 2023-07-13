@@ -1,0 +1,12 @@
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/bin/Debug/net6.0/BffCore.deps.json
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/bin/Debug/net6.0/BffCore.dll
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/bin/Debug/net6.0/BffCore.pdb
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/obj/Debug/net6.0/BffCore.csproj.AssemblyReference.cache
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/obj/Debug/net6.0/BffCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/obj/Debug/net6.0/BffCore.AssemblyInfoInputs.cache
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/obj/Debug/net6.0/BffCore.AssemblyInfo.cs
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/obj/Debug/net6.0/BffCore.csproj.CoreCompileInputs.cache
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/obj/Debug/net6.0/BffCore.dll
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/obj/Debug/net6.0/refint/BffCore.dll
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/obj/Debug/net6.0/BffCore.pdb
+/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/obj/Debug/net6.0/ref/BffCore.dll

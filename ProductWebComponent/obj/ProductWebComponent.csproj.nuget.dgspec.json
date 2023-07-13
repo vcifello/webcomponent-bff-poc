@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/ProductWebComponent.csproj": {}
+  },
+  "projects": {
+    "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/AuthCore/AuthCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/AuthCore/AuthCore.csproj",
+        "projectName": "AuthCore",
+        "projectPath": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/AuthCore/AuthCore.csproj",
+        "packagesPath": "/Users/vincentcifello/.nuget/packages/",
+        "outputPath": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/AuthCore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vincentcifello/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/ProductWebComponent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/ProductWebComponent.csproj",
+        "projectName": "ProductWebComponent",
+        "projectPath": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/ProductWebComponent.csproj",
+        "packagesPath": "/Users/vincentcifello/.nuget/packages/",
+        "outputPath": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/vincentcifello/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/AuthCore/AuthCore.csproj": {
+                "projectPath": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/AuthCore/AuthCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/wwwroot/html/product-listing.html",
+      "PackagePath": "staticwebassets/html/product-listing.html"
+    },
+    {
+      "Id": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ProductWebComponent/wwwroot/js/product-listing.js",
+      "PackagePath": "staticwebassets/js/product-listing.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.ProductWebComponent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.ProductWebComponent.props",
+      "PackagePath": "build\\ProductWebComponent.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ProductWebComponent.props",
+      "PackagePath": "buildMultiTargeting\\ProductWebComponent.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ProductWebComponent.props",
+      "PackagePath": "buildTransitive\\ProductWebComponent.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "IbsafrXKBGxj5Y0yQ0RLQFr1H4gDsbcbYTwczVFv3fDh5BjzwKrQT6ZyuJE0Wk0dPpblQB/v027dCIgn1NFlHw==",
+  "success": true,
+  "projectFilePath": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/Bff/BffCore.csproj",
+  "expectedPackageFiles": [
+    "/Users/vincentcifello/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/6.0.1/microsoft.aspnetcore.authentication.openidconnect.6.0.1.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/vincentcifello/.nuget/packages/yarp.reverseproxy/1.0.0/yarp.reverseproxy.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

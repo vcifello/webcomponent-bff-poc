@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44444",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/vincentcifello/Documents/Computer/vindotnet/kallemajj/webcomponent-bff-poc/ReactWebAppWithBff/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
